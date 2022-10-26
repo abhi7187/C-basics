@@ -1,4 +1,6 @@
 //MERGING OF TWO SORTED ARRAYS
+#include<stdio.h>
+#include<stdlib.h>
 int main(){
     int arr1[10];
     int arr2[10];
